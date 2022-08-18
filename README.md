@@ -1,6 +1,6 @@
 ## Błędy prosimy zgłaszać na zakładce `Issues`
 
-# CHANGELOG
+# CHANGELOG 2022.1
 1. Przejście na EF Core dla przyszłego rozwoju oprogramowania. Prostsze mapowanie chorych nazw kolumn.
 2. Endpoint `api/bankaccounts` przeniesiony do `api/bank/accounts`. Celem jest starać się utrzymać jeden kontroler na konkretny moduł Optimy
 3. Lista definicji dokumentów `api/documents/definitions`
